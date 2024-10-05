@@ -32,8 +32,8 @@ For a full list of components and assembly details, visit: [Ultimate MIDI Contro
 
 ## Downloads
 
-- **Enclosure STL Files**: [Download](#) the 3D-printable files for the top and bottom enclosure.
-- **Schematics & Code**: [Download](#) the wiring schematics and Arduino code.
+- **Enclosure STL Files**: Download the 3D-printable files for the top and bottom enclosure.
+- **Schematics & Code**: Download the wiring schematics and Arduino code.
 
 > **Note:** The code is actively being developed. If you find any missing features or bugs, check back later for updates.
 
